@@ -56,6 +56,10 @@ td {
   line-height: 25%;
 }
 
+img {
+  max-width: 640px;
+}
+
 .map {
   filter: invert(100%);
 }
