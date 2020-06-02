@@ -20,6 +20,6 @@ p {
   text-align: center;
 }
 
-#inner #skills {
+#inner .skills {
   color: yellow;
 }
