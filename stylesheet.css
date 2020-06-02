@@ -16,6 +16,6 @@ p {
   color: white;
 }
 
-.subtitle {
+p.subtitle {
   text-align: center;
 }
