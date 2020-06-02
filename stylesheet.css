@@ -3,13 +3,13 @@
   margin: 0 auto;
 }
 
-table, th, td {
+table {
   width: 100%;
   border-width: thin;
   border-style: solid;
   border-color: #FFFFF;
-}
 
+}
 
 body {
   background-color: black;
