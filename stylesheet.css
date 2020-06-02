@@ -9,7 +9,9 @@ body {
 }
 
 h1 {
+  font-family: Impact;
   color: white;
+  text-transform: uppercase;
   text-align: center;
   margin-top: 100px;
   margin-bottom: 30px;
@@ -30,21 +32,19 @@ p {
 
 table {
   width: 100%;
-  border-width: thin;
-  border-style: solid;
-  border-color: white;
+  border: 2px solid white;
   padding: 14px;
   color: white;
   border-collapse: collapse;
 }
 
 th {
-  border: 1px solid white;
+  border-bottom: 2px solid white;
   padding: 8px;
 }
 
 td {
-  border: 1px solid white;
+  border: .5px solid white;
   padding: 6px;
   padding-left: 12px;
   vertical-align: top;
