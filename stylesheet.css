@@ -11,7 +11,7 @@ table {
 
 }
 
-#inner tr {
+#inner table tr {
   border: thin solid white;
   padding: 10px;
 }
