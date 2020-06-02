@@ -8,12 +8,7 @@ table {
   border-width: thin;
   border-style: solid;
   border-color: white;
-
-}
-
-#inner table tr {
-  border: thin solid white;
-  padding: 10px;
+  padding: 14px;
 }
 
 body {
