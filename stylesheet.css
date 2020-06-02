@@ -25,14 +25,7 @@ table {
   width: 100%;
 }
 
-td, th, tr {
+td {
   border: 1px solid white;
   padding: 24px;
-}
-
-th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  background-color: white;
-  color: black;
 }
