@@ -9,7 +9,10 @@ body {
 
 h1 {
   color: white;
-  border-bottom: 1px solid white;
+}
+
+h2 {
+    border-bottom: 1px solid white;
 }
 
 p {
