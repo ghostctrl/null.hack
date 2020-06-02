@@ -33,47 +33,26 @@ This is the body you (currently) inhabit.
 Expert Skills can only be taken if the pre-requisite Trained Skill is first acquired.
 
 <table>
-
 <thead>
-
 <tr>
-
 <th colspan="2">SKILLS TABLE</th>
-
 </tr>
-
 <tr>
-
 <th>Trained Skills</th>
-
 <th>Expert Skills</th>
-
 </tr>
-
 </thead>
-
 <tbody>
-
 <tr>
-
 <td>Athletics</td>
-
 <td>> Evasion</td>
-
 </tr>
-
 <tr>
-
 <td rowspan="3">Computers</td>
-
 <td>> Big Data</td>
-
 </tr>
-
 <tr>
-
 <td>> Hacking</td>
-
 </tr>
 
 <tr>
