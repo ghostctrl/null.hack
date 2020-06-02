@@ -12,7 +12,8 @@ h1 {
 }
 
 h2 {
-    border-bottom: 1px solid white;
+  color: white;
+  border-bottom: 1px solid white;
 }
 
 p {
