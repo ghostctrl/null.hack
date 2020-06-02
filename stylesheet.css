@@ -3,12 +3,17 @@
   margin: 0 auto;
 }
 
-table, tr {
+table {
   width: 100%;
   border-width: thin;
   border-style: solid;
   border-color: white;
 
+}
+
+tr {
+  border: thin solid white;
+  padding: 10px;
 }
 
 body {
