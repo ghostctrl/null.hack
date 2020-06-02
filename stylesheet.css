@@ -61,8 +61,7 @@ img {
 }
 
 .map {
-  filter: invert(100%);
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 header {
