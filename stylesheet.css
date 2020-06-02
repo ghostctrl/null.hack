@@ -20,7 +20,7 @@ p {
   text-align: center;
 }
 
-table {
+table, th, td {
   width: 100%;
   border: 1px solid white;
 }
