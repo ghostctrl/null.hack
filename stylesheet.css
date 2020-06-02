@@ -14,3 +14,7 @@ h1 {
 p {
   color: white;
 }
+
+#subtitle {
+  text-align: center;
+}
