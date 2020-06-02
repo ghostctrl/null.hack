@@ -3,6 +3,14 @@
   margin: 0 auto;
 }
 
+table, th, td {
+  width: 100%;
+  border-width: thin;
+  border-style: solid;
+  border-color: #FFFFF;
+}
+
+
 body {
   background-color: black;
   color: white;
@@ -18,11 +26,4 @@ p {
 
 #inner .subtitle {
   text-align: center;
-}
-
-table, th, td {
-  width: 100%;
-  border-width: thin;
-  border-style: solid;
-  border-color: #FFFFF;
 }
