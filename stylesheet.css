@@ -20,11 +20,7 @@ p {
   text-align: center;
 }
 
-#inner #skills {
-  border: 1px solid white;
-}
-
-#inner #skills td, #skills th {
+table {
   border: 1px solid white;
   padding: 8px;
 }
