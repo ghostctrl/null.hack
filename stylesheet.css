@@ -31,10 +31,23 @@ table {
   border-collapse: collapse;
 }
 
+th {
+  border: 1px solid white;
+  padding: 8px;
+}
+
 td {
   border: 1px solid white;
+  padding: 6px;
+  padding-left: 12px;
+  vertical-align: top;
 }
 
 #inner .subtitle {
   text-align: center;
+}
+
+footer {
+  margin-top: 100px;
+  border-top: 1px solid white;
 }
