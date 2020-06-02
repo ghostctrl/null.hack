@@ -16,7 +16,7 @@ p {
   color: white;
 }
 
-p.subtitle {
+#inner .subtitle {
   text-align: center;
-  color:yellow;
+  color: yellow;
 }
