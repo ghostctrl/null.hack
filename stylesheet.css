@@ -22,5 +22,9 @@ p {
 
 #skills {
   border: 1px solid white;
-  padding: .5 em;
+}
+
+#skills td, #skill th {
+  border: 1px solid white;
+  padding: 8px;
 }
