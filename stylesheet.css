@@ -25,7 +25,7 @@ table {
   width: 100%;
 }
 
-td, th {
+td, th, tr {
   border: 1px solid white;
   padding: 8px;
 }
