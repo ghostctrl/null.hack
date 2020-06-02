@@ -10,6 +10,13 @@ body {
 
 h1 {
   color: white;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  padding-top:25px;
+  padding-bottom:25px;
+  border-top:1px solid white;
+  border-bottom:1px solid white;
 }
 
 h2 {
@@ -45,6 +52,13 @@ td {
 
 #inner .subtitle {
   text-align: center;
+  font-size: small;
+  line-height: 25%;
+}
+
+header {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 footer {
