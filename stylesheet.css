@@ -27,9 +27,10 @@ table {
   border-color: white;
   padding: 14px;
   color: white;
+  border-collapse: collapse;
 }
 
-tr {
+td {
   border: 1px solid white;
 }
 
