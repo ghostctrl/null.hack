@@ -3,7 +3,7 @@
   margin: 0 auto;
 }
 
-table, td {
+table, tr {
   width: 100%;
   border-width: thin;
   border-style: solid;
