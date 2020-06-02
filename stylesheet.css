@@ -20,6 +20,7 @@ p {
   text-align: center;
 }
 
-.skills {
-  color: yellow;
+#inner .skills {
+  border: 1px solid white;
+  padding: .5 em;
 }
