@@ -26,6 +26,11 @@ table {
   border-style: solid;
   border-color: white;
   padding: 14px;
+  color: white;
+}
+
+tr {
+  border: 1px solid white;
 }
 
 #inner .subtitle {
