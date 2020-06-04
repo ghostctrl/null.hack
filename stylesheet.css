@@ -1,7 +1,13 @@
+@media only screen and (min-width: 768px) {
+  #inner {margin:auto;width:50%;}
+}
+
+/*
 #inner {
   margin: auto;
   width: 50%;
 }
+*/
 
 body {
   background-color: black;
