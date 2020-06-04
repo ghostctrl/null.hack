@@ -32,6 +32,7 @@ h1 {
 }
 
 h2 {
+  margin-top:50px;
   font-size: large;
   color: white;
   border-bottom: 1px solid white;
@@ -44,6 +45,8 @@ p {
 table {
   width: 100%;
   border: 2px solid white;
+  margin-top: 25px;
+  margin-bottom: 50px;
   padding: 14px;
   color: white;
   border-collapse: collapse;
