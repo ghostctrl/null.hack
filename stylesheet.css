@@ -4,7 +4,6 @@ body {
 }
 
 h1 {
-  font-family: Impact;
   font-size: 48px;
   color: white;
   text-transform: uppercase;
@@ -53,7 +52,8 @@ td {
 }
 
 img {
-  max-width: 640px;
+  width: 100%;
+  height: auto;
 }
 
 .map {
