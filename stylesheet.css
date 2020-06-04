@@ -1,10 +1,15 @@
+#inner {
+  margin: auto;
+  width: 50%;
+}
+
 body {
   background-color: black;
   color: white;
 }
 
 h1 {
-  font-size: 48px;
+  font-size: x-large;
   color: white;
   text-transform: uppercase;
   text-align: center;
@@ -17,6 +22,7 @@ h1 {
 }
 
 h2 {
+  font-size: large;
   color: white;
   border-bottom: 1px solid white;
 }
@@ -45,7 +51,7 @@ td {
   vertical-align: top;
 }
 
-#inner .subtitle {
+.subtitle {
   text-align: center;
   font-size: small;
   line-height: 25%;
