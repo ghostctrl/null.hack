@@ -44,7 +44,7 @@ p {
 
 table {
   width: 100%;
-  border: 2px solid white;
+  border: 2px solid #ea232f;
   margin-top: 25px;
   margin-bottom: 50px;
   padding: 14px;
@@ -53,12 +53,12 @@ table {
 }
 
 th {
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid #ea232f;
   padding: 8px;
 }
 
 td {
-  border: .5px solid white;
+  border: .5px solid #ea232f;
   padding: 6px;
   padding-left: 12px;
   vertical-align: top;
@@ -84,7 +84,7 @@ img {
 }
 
 .map {
-  border: 1px solid #ea232f;
+  border: 2px solid #ea232f;
 }
 
 header {
