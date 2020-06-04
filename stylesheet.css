@@ -10,8 +10,8 @@
 */
 
 body {
-  background-color: black;
-  color: white;
+  background-color: #141414;
+  color: #EEEEEE;
 }
 
 a {
@@ -19,41 +19,41 @@ a {
 }
 
 h1 {
-  font-size: x-large;
-  color: white;
+  font-size: xx-large;
+  font-family: Impact;
+  color: #EEEEEE;
   text-transform: uppercase;
   text-align: center;
   margin-top: 100px;
   margin-bottom: 30px;
-  padding-top:25px;
-  padding-bottom:25px;
-  border-top:1px solid white;
-  border-bottom:1px solid white;
+  padding-top:50px;
+  padding-bottom:50px;
+  background-color: #ea232f;
 }
 
 h2 {
   margin-top:50px;
   font-size: large;
-  color: white;
-  border-bottom: 1px solid #ea232f;
+  color: #EEEEEE;
+  border-bottom: 6px solid #ea232f;
 }
 
 p {
-  color: white;
+  color: #EEEEEE;
 }
 
 table {
   width: 100%;
-  border: 2px solid #ea232f;
+  border: 6px solid #ea232f;
   margin-top: 25px;
   margin-bottom: 50px;
   padding: 14px;
-  color: white;
+  color: #EEEEEE;
   border-collapse: collapse;
 }
 
 th {
-  border-bottom: 2px solid #ea232f;
+  border-bottom: 3px solid #ea232f;
   padding: 8px;
 }
 
@@ -84,7 +84,8 @@ img {
 }
 
 .map {
-  border: 2px solid #ea232f;
+  border: 6px solid #ea232f;
+  box-sizing: border-box;
 }
 
 header {
@@ -94,5 +95,5 @@ header {
 
 footer {
   margin-top: 100px;
-  border-top: 1px solid white;
+  border-top: 1px solid #EEEEEE;
 }
