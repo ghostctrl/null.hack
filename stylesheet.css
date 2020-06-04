@@ -14,6 +14,10 @@ body {
   color: white;
 }
 
+a {
+  color: #ea232f;
+}
+
 h1 {
   font-size: x-large;
   color: white;
@@ -61,6 +65,14 @@ td {
   text-align: center;
   font-size: small;
   line-height: 25%;
+}
+
+.contents {
+  margin-top: 100px;
+}
+
+.contentslist {
+  list-style-type: none;
 }
 
 img {
